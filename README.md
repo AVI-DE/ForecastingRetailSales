@@ -1,0 +1,20 @@
+ForecastingRetailSales
+
+In this project, you will make use of ARIMA Time Series Forecasting algorithm in Python to forecast SALES data related to various categories at a Retail store and compare the same.
+
+Prerequisites
+Software's to be installed - Python [Along with modules anaconda, pandas, numpy]
+
+Getting Started
+
+In order to run the ForecastingRetailSales project follow the below steps :
+
+STEP 1 - Open a new Jupiter Notebook terminal which would open online 
+
+STEP 2 - Execute the command step by step inorder to get the results
+
+Built With
+Python - v3.7
+
+Dataset
+
